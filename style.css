@@ -1,0 +1,145 @@
+body{
+    background:white;
+    margin:0;
+    padding:0;
+}
+.head{
+    background:black;
+    padding:5px 0px;
+    color:white;
+}
+.area2{
+    background:#f8f9fa;
+    width:100%;
+}
+.area3{
+    padding:50px 0px;
+    background:white;
+}
+.bannerbox{
+    background:white;
+    width:100%;
+}
+.bannerbox img{
+    width:100%;
+
+}
+.area4{
+    background:#f8f9fa;
+    width:100%;
+    padding:50px 0px;
+}
+.rec{
+    background:#f8f9fa;
+    padding:10px 0px;
+    width:100%;
+}
+.rec img{
+    width:100%;
+}
+.rec p{
+    text-align:center;
+    font-size:10px;
+
+}
+.textarea1{
+    background:white;
+    width:100%;
+    border:solid black 1px;
+    border-radius:5px;
+}
+.textarea1 p{
+    text-align:center;
+    padding-top:10px;
+}
+.textarea2{
+    background:white;
+    width:100%;
+    border:solid black 1px;
+    border-radius:5px;
+}
+.textarea2 p{
+    text-align:center;
+    padding-top:10px;
+}
+.textarea3{
+    background:white;
+    width:100%;
+    border:solid black 1px;
+    border-radius:5px;
+}
+.textarea3 p{
+    text-align:center;
+    padding-top:10px;
+}
+.textarea4{
+    background:white;
+    width:100%;
+    border:solid black 1px;
+    border-radius:5px;
+}
+.textarea4 p{
+    text-align:center;
+    padding-top:10px;
+}
+.area5{
+    padding-top:40px;
+    padding-bottom:10px;
+    padding-left:0px;
+    padding-right:0px;
+    background:white;
+}
+.square{
+    background:white;
+    margin:0px;
+    padding:5px;
+    width:100%;
+    border:solid #e5e5e5 1px;
+
+}
+.square img{
+    width:100%;
+}
+.sabout{
+    background:white;
+    margin:0;
+}
+.sabout p{
+    font-size:14px;
+    padding-top:10px;
+    text-align:center;
+}
+.sabout h4{
+    font-size:16px;
+    line-height:0px;
+    text-align:center;
+}
+.area6{
+    padding:0px 0px;
+    background:white;
+}
+.square{
+    background:white;
+    margin:0px;
+    padding:5px;
+    width:100%;
+    border:solid #e5e5e5 1px;
+
+}
+.square img{
+    width:100%;
+}
+.sabout{
+    background:white;
+    margin:0;
+}
+.sabout p{
+    font-size:14px;
+    padding-top:10px;
+    text-align:center;
+}
+.sabout h4{
+    font-size:16px;
+    line-height:0px;
+    text-align:center;
+}
