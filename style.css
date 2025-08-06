@@ -143,3 +143,27 @@ body{
     line-height:0px;
     text-align:center;
 }
+
+.area7{
+    padding:50px 0px;
+    background:white;
+}
+.vipbox{
+    background:white;
+    margin:0px;
+    padding:5px;
+    width:100%;
+
+}
+.vipbox img{
+    width:100%;
+}
+.vipabout{
+    background:#f7f7f7;
+    margin:0;
+}
+.vipabout p{
+    font-size:8px;
+    text-align:center;
+    line-height:0;
+}
