@@ -1,0 +1,65 @@
+body{
+    background:blue;
+
+}
+.head{
+    background:black;
+    padding:5px 0px;
+    color:white;
+}
+.area2{
+    background:#f8f9fa;
+    width:100%;
+}
+.hathead{
+    background:white;
+    width:100;
+}
+.hathead p{
+    font-size:8px;
+    tex-align:center;
+    font-weight:bold;
+}
+.product{
+    padding:50px 0px;
+    background:white;
+}
+.square{
+    background:white;
+    margin:0px;
+    padding:5px;
+    width:100%;
+    border:solid #e5e5e5 1px;
+
+}
+.square img{
+    width:100%;
+}
+.sabout{
+    background:white;
+    margin:0;
+}
+.sabout p{
+    font-size:14px;
+    padding-top:10px;
+    text-align:center;
+}
+.sabout h4{
+    font-size:16px;
+    line-height:0px;
+    text-align:center;
+}.area9{
+    background:#f2f2f2;
+    padding:50px 0px;
+}
+.area9 h3{
+    text-align:center;
+    margin-bottom:20px;
+}
+.area9 li{
+    list-style: none;
+}
+.area9 h3{
+    font-size:21px;
+    margin-top:20px;
+}
