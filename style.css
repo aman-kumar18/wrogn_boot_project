@@ -36,7 +36,7 @@ body{
 .area4{
     background:#f8f9fa;
     width:100%;
-    padding:50px 0px;
+    padding:70px 0px;
 }
 .rec{
     background:#f8f9fa;
@@ -49,8 +49,10 @@ body{
 .rec p{
     text-align:center;
     font-size:10px;
+    
 
 }
+
 .textarea1{
     background:white;
     width:100%;
@@ -93,12 +95,12 @@ body{
 }
 .area5{
     padding-top:40px;
-    padding-bottom:10px;
+    padding-bottom:0px;
     padding-left:0px;
     padding-right:0px;
     background:white;
 }
-.square{
+.squa{
     background:white;
     margin:0px;
     padding:5px;
@@ -106,79 +108,84 @@ body{
     border:solid #e5e5e5 1px;
 
 }
-.square img{
+.squa img{
     width:100%;
 }
-.sabout{
+.s1about{
     background:white;
     margin:0;
+    margin-bottom:30px;
 }
-.sabout p{
+.s1about p{
     font-size:14px;
     padding-top:10px;
     text-align:center;
 }
-.sabout h4{
-    font-size:16px;
-    line-height:0px;
-    text-align:center;
-}
-.area6{
-    padding:0px 0px;
-    background:white;
-}
-.square{
-    background:white;
-    margin:0px;
-    padding:5px;
-    width:100%;
-    border:solid #e5e5e5 1px;
-
-}
-.square img{
-    width:100%;
-}
-.sabout{
-    background:white;
-    margin:0;
-}
-.sabout p{
-    font-size:14px;
-    padding-top:10px;
-    text-align:center;
-}
-.sabout h4{
+.s1about h4{
     font-size:16px;
     line-height:0px;
     text-align:center;
 }
 .area6a{
-    padding:10px 0px;
+    padding:0px 0px;
     background:white;
 
 }
-.area7{
-    padding:50px 0px;
-    background:white;
-}
-.vipbox{
+.square{
     background:white;
     margin:0px;
     padding:5px;
     width:100%;
+    border:solid #e5e5e5 1px;
+
+}
+.square img{
+    width:100%;
+}
+.sabout{
+    background:white;
+    margin-bottom:30px;
+}
+.sabout p{
+    font-size:14px;
+    padding-top:10px;
+    text-align:center;
+}
+.sabout h4{
+    font-size:16px;
+    line-height:0px;
+    text-align:center;
+}
+.area7{
+    padding:10px 0px;
+    background:white;
+}
+.vipbox{
+    background:white;
+    margin-top:0px;
+    margin-bottom:0px;
+    width:100%;
+    position:relative;
+    overflow:hidden;
 
 }
 .vipbox img{
     width:100%;
+    transition:2s;
+}
+.vipbox img:hover{
+    transform:scale(1.2, 1.2);
+
 }
 .vipabout{
     background:#f7f7f7;
     margin:0;
+    padding:10px 0px;
 }
 .vipabout p{
-    font-size:8px;
+    font-size:10px;
     text-align:center;
-    line-height:0;
+    line-height:3px;
 }
 .area8{
     padding:30px 0px;
