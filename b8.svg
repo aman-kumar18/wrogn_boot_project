@@ -1,0 +1,69 @@
+<svg viewBox="0 0 150.1 150.1" version="1.1" xmlns="http://www.w3.org/2000/svg" id="ICONS">
+  
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: none;
+      }
+
+      .st1, .st2 {
+        stroke: #221f20;
+      }
+
+      .st2 {
+        stroke-width: .8px;
+      }
+
+      .st5 {
+        fill: #221f20;
+      }
+
+      .st6 {
+        fill: #fff;
+      }
+
+      .st6, .st3 {
+        stroke-miterlimit: 10;
+        stroke-width: .7px;
+      }
+
+      .st6, .st3, .st4 {
+        stroke: #000201;
+        stroke-linecap: round;
+      }
+
+      .st4 {
+        stroke-dasharray: 0 0 0 0 0 2.8;
+        stroke-linejoin: round;
+        stroke-width: .9px;
+      }
+    </style>
+  </defs>
+  <rect height="149.6" width="149.6" y=".2" x=".2" class="st0"></rect>
+  <g>
+    <g>
+      <line y2="40.1" x2="111.4" y1="40.1" x1="109" class="st6"></line>
+      <line y2="40.1" x2="106.6" y1="40.1" x1="104.1" class="st6"></line>
+    </g>
+    <g>
+      <line y2="36.5" x2="107.8" y1="38.9" x1="107.8" class="st6"></line>
+      <line y2="41.3" x2="107.8" y1="43.7" x1="107.8" class="st6"></line>
+    </g>
+  </g>
+  <g>
+    <g>
+      <line y2="119.4" x2="59.2" y1="119.4" x1="56.7" class="st6"></line>
+      <line y2="119.4" x2="54.3" y1="119.4" x1="51.9" class="st6"></line>
+    </g>
+    <g>
+      <line y2="115.8" x2="55.5" y1="118.2" x1="55.5" class="st6"></line>
+      <line y2="120.6" x2="55.5" y1="123" x1="55.5" class="st6"></line>
+    </g>
+  </g>
+  <polyline points="55.5 53.7 111.4 53.7 111.4 107.8 47.1 107.8" class="st2"></polyline>
+  <path d="M55.5,100.6v-46.4c0-4-3.8-7.2-8.4-7.2s-8.4,3.2-8.4,7.2v46.4" class="st1"></path>
+  <ellipse ry="7.2" rx="8.4" cy="100.6" cx="47.1" class="st2"></ellipse>
+  <path d="M47,47.1c4.5,0,8.2,3,8.4,6.8h0c0-.1,55.9-.1,55.9-.1v54H47c-4.7,0-8.4-3.2-8.4-7.2s0,0,0,0h0v-46.4c0-4,3.8-7.2,8.4-7.2M47,45.1c-5.8,0-10.4,4.1-10.4,9.2v46.4c0,5.1,4.7,9.2,10.4,9.2h64.4c1.1,0,2-.9,2-2v-54c0-1.1-.9-2-2-2h-54.3c-1.2-3.9-5.3-6.7-10-6.7h0Z" class="st5"></path>
+  <path d="M32.1,55.9v-9.3c0-.7,0-1.4.3-2,.3-.9.8-2,1.9-2h13.4" class="st4"></path>
+  <path d="M120.6,103.6v10s-.3,3.4-2.6,3.5h-15.7" class="st3"></path>
+</svg>
