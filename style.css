@@ -21,8 +21,14 @@ body{
     font-weight:bold;
     font-size:14px;
 }
+
+.navbar-brand{
+    margin:0;
+    padding-bottom:12px;
+}
 .area3{
-    padding:50px 0px;
+    padding-top:50px;
+    padding-bottom:30px;
     background:white;
 }
 .bannerbox{
@@ -34,12 +40,12 @@ body{
 
 }
 .area4{
-    background:#f8f9fa;
+    background:white;
     width:100%;
-    padding:70px 0px;
+    padding:0px 0px;
 }
 .rec{
-    background:#f8f9fa;
+    background:white;
     padding:10px 0px;
     width:100%;
 }
@@ -48,50 +54,61 @@ body{
 }
 .rec p{
     text-align:center;
-    font-size:10px;
+    font-size:14px;
+    color:black;
     
-
+}
+.rec a{
+    text-decoration:none;
 }
 
 .textarea1{
-    background:white;
+    background:black;
     width:100%;
     border:solid black 1px;
     border-radius:5px;
+    margin:10px 0px;
 }
 .textarea1 p{
     text-align:center;
     padding-top:10px;
+    color:white;
 }
 .textarea2{
-    background:white;
+    background:black;
     width:100%;
     border:solid black 1px;
     border-radius:5px;
+    margin:10px 0px;
 }
 .textarea2 p{
     text-align:center;
     padding-top:10px;
+    color:white;
 }
 .textarea3{
-    background:white;
+    background:black;
     width:100%;
     border:solid black 1px;
     border-radius:5px;
+    margin:10px 0px;
 }
 .textarea3 p{
     text-align:center;
     padding-top:10px;
+    color:white;
 }
 .textarea4{
-    background:white;
+    background:black;
     width:100%;
     border:solid black 1px;
     border-radius:5px;
+    margin:10px 0px;
 }
 .textarea4 p{
     text-align:center;
     padding-top:10px;
+    color:white;
 }
 .area5{
     padding-top:40px;
