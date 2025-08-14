@@ -21,7 +21,6 @@ body{
     font-weight:bold;
     font-size:14px;
 }
-
 .navbar-brand{
     margin:0;
     padding-bottom:12px;
@@ -54,7 +53,7 @@ body{
 }
 .rec p{
     text-align:center;
-    font-size:14px;
+    font-size:10px;
     color:black;
     
 }
@@ -111,7 +110,7 @@ body{
     color:white;
 }
 .area5{
-    padding-top:40px;
+    padding-top:25px;
     padding-bottom:0px;
     padding-left:0px;
     padding-right:0px;
@@ -196,7 +195,7 @@ body{
 }
 .vipabout{
     background:#f7f7f7;
-    margin:0;
+    margin-bottom:20px;
     padding:10px 0px;
 }
 .vipabout p{
@@ -209,16 +208,25 @@ body{
     background:rgb(183, 175, 175);
 }
 .detail{
-    background:rgb(183, 175, 175);
-    border-right:solid 2px black;
+    background:black;
+    border:solid 2px black;
+    color:white;
+    border-radius:20px;
+    margin:10px 0px;
     
 }
-.detail1 p{
+.detail p{
     text-align:center;
+    margin:0;
 }
 .area9{
     background:#f2f2f2;
     padding:50px 0px;
+}
+.navbar-brand1{
+    padding-top:10px;
+    color:black;
+    text-decoration:none;
 }
 .area9 h3{
     text-align:center;
