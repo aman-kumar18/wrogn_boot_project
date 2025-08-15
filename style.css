@@ -212,9 +212,9 @@ body {
 
 .back {
     background: #f2f2f2;
-    margin: 5px;
+    margin: px;
     width: 100%;
-    padding: 5px;
+    padding: 0px;
     position:relative;
 }
 
