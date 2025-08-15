@@ -1,259 +1,316 @@
-body{
-    background:white;
-    margin:0;
-    padding:0;
-}
-.head{
-    background:black;
-    padding:5px 0px;
-    color:white;
-}
-.area2{
-    background:#f8f9fa;
-    width:100%;
-}
-.table1{
-    width:350px;
-    margin:40px 45px;
-    line-height:40px;
-}
-.table1 td{
-    font-weight:bold;
-    font-size:14px;
-}
-.navbar-brand{
-    margin:0;
-    padding-bottom:12px;
-}
-.area3{
-    padding-top:50px;
-    padding-bottom:30px;
-    background:white;
-}
-.bannerbox{
-    background:white;
-    width:100%;
-}
-.bannerbox img{
-    width:100%;
-
-}
-.area4{
-    background:white;
-    width:100%;
-    padding:0px 0px;
-}
-.rec{
-    background:white;
-    padding:10px 0px;
-    width:100%;
-}
-.rec img{
-    width:100%;
-}
-.rec p{
-    text-align:center;
-    font-size:10px;
-    color:black;
-    
-}
-.rec a{
-    text-decoration:none;
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
 }
 
-.textarea1{
-    background:black;
-    width:100%;
-    border:solid black 1px;
-    border-radius:5px;
-    margin:10px 0px;
+.head {
+    background: black;
+    padding: 5px 0px;
+    color: white;
 }
-.textarea1 p{
-    text-align:center;
-    padding-top:12px;
-    color:white;
+
+.area2 {
+    background: #f8f9fa;
+    width: 100%;
 }
-.textarea2{
-    background:black;
-    width:100%;
-    border:solid black 1px;
-    border-radius:5px;
-    margin:10px 0px;
+
+.table1 {
+    width: 350px;
+    margin: 40px 45px;
+    line-height: 40px;
 }
-.textarea2 p{
-    text-align:center;
-    padding-top:12px;
-    color:white;
+
+.table1 td {
+    font-weight: bold;
+    font-size: 14px;
 }
-.textarea3{
-    background:black;
-    width:100%;
-    border:solid black 1px;
-    border-radius:5px;
-    margin:10px 0px;
+
+.navbar-brand {
+    margin: 0;
+    padding-bottom: 12px;
 }
-.textarea3 p{
-    text-align:center;
-    padding-top:12px;
-    color:white;
+
+.area3 {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background: white;
 }
-.textarea4{
-    background:black;
-    width:100%;
-    border:solid black 1px;
-    border-radius:5px;
-    margin:10px 0px;
+
+.bannerbox {
+    background: white;
+    width: 100%;
 }
-.textarea4 p{
-    text-align:center;
-    padding-top:12px;
-    color:white;
-}
-.area5{
-    padding-top:25px;
-    padding-bottom:0px;
-    padding-left:0px;
-    padding-right:0px;
-    background:white;
-}
-.squa{
-    background:white;
-    margin:0px;
-    padding:5px;
-    width:100%;
-    border:solid #e5e5e5 1px;
+
+.bannerbox img {
+    width: 100%;
 
 }
-.squa img{
-    width:100%;
+
+.area4 {
+    background: white;
+    width: 100%;
+    padding: 0px 0px;
 }
-.s1about{
-    background:white;
-    margin:0;
-    margin-bottom:30px;
+
+.rec {
+    background: white;
+    padding: 10px 0px;
+    width: 100%;
 }
-.s1about p{
-    font-size:14px;
-    padding-top:10px;
-    text-align:center;
+
+.rec img {
+    width: 100%;
 }
-.s1about h4{
-    font-size:16px;
-    line-height:0px;
-    text-align:center;
-}
-.area6a{
-    padding:0px 0px;
-    background:white;
+
+.rec p {
+    text-align: center;
+    font-size: 10px;
+    color: black;
 
 }
-.square{
-    background:white;
-    margin:0px;
-    padding:5px;
-    width:100%;
-    border:solid #e5e5e5 1px;
+
+.rec a {
+    text-decoration: none;
+}
+
+.textarea1 {
+    background: black;
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.textarea1 p {
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
+
+.textarea2 {
+    background: black;
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.textarea2 p {
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
+
+.textarea3 {
+    background: black;
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.textarea3 p {
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
+
+.textarea4 {
+    background: black;
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.textarea4 p {
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
+
+.area5 {
+    padding-top: 25px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: white;
+}
+
+.squa {
+    background: white;
+    margin: 0px;
+    padding: 5px;
+    width: 100%;
+    border: solid #e5e5e5 1px;
 
 }
-.square img{
-    width:100%;
+
+.squa img {
+    width: 100%;
 }
-.sabout{
-    background:white;
-    margin-bottom:30px;
+
+.s1about {
+    background: white;
+    margin: 0;
+    margin-bottom: 30px;
 }
-.sabout p{
-    font-size:14px;
-    padding-top:10px;
-    text-align:center;
+
+.s1about p {
+    font-size: 14px;
+    padding-top: 10px;
+    text-align: center;
 }
-.sabout h4{
-    font-size:16px;
-    line-height:0px;
-    text-align:center;
+
+.s1about h4 {
+    font-size: 16px;
+    line-height: 0px;
+    text-align: center;
 }
-.area6b{
-    background:white;
-    padding:0px 0px;
+
+.area6a {
+    padding: 0px 0px;
+    background: white;
+
 }
-.back{
-    background:#f2f2f2;
-    margin:5px;
-    width:100%;
-    padding:5px;
+
+.square {
+    background: white;
+    margin: 0px;
+    padding: 5px;
+    width: 100%;
+    border: solid #e5e5e5 1px;
+
 }
-.back img{
-    width:100%;
+
+.square img {
+    width: 100%;
 }
-.trep{
-    padding:10px
-    color:white;
-    background:black;
+
+.sabout {
+    background: white;
+    margin-bottom: 30px;
 }
-.area7{
-    padding:10px 0px;
-    background:white;
+
+.sabout p {
+    font-size: 14px;
+    padding-top: 10px;
+    text-align: center;
 }
-.vipbox{
-    background:white;
-    margin-top:0px;
-    margin-bottom:0px;
-    width:100%;
+
+.sabout h4 {
+    font-size: 16px;
+    line-height: 0px;
+    text-align: center;
+}
+
+.area6b {
+    background: white;
+    padding: 0px 0px;
+}
+
+.back {
+    background: #f2f2f2;
+    margin: 5px;
+    width: 100%;
+    padding: 5px;
     position:relative;
-    overflow:hidden;
+}
 
+.back img {
+    width: 100%;
 }
-.vipbox img{
-    width:100%;
-    transition:2s;
-}
-.vipbox img:hover{
-    transform:scale(1.2, 1.2);
 
-}
-.vipabout{
-    background:#f7f7f7;
-    margin-bottom:20px;
-    padding:10px 0px;
-}
-.vipabout p{
-    font-size:10px;
-    text-align:center;
-    line-height:3px;
-}
-.area8{
-    padding:30px 0px;
-    background:rgb(183, 175, 175);
-}
-.detail{
-    background:black;
-    border:solid 2px black;
-    color:white;
-    border-radius:20px;
-    margin:10px 0px;
-    
-}
-.detail p{
-    text-align:center;
-    margin:0;
-}
-.area9{
-    background:#f2f2f2;
+.details {
+    position: absolute;
+    bottom: 0;
+    /*color:white;*/
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
     padding:50px 0px;
+    background-image: linear-gradient(to top, black, transparent);
+    color:white;
 }
-.navbar-brand1{
-    padding-top:10px;
-    color:black;
-    text-decoration:none;
+
+.area7 {
+    padding: 10px 0px;
+    background: white;
 }
-.area9 h3{
-    text-align:center;
-    margin-bottom:20px;
+
+.vipbox {
+    background: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
 }
-.area9 li{
+
+.vipbox img {
+    width: 100%;
+    transition: 2s;
+}
+
+.vipbox img:hover {
+    transform: scale(1.2, 1.2);
+
+}
+
+.vipabout {
+    background: #f7f7f7;
+    margin-bottom: 20px;
+    padding: 10px 0px;
+}
+
+.vipabout p {
+    font-size: 10px;
+    text-align: center;
+    line-height: 3px;
+}
+
+.area8 {
+    padding: 30px 0px;
+    background: rgb(183, 175, 175);
+}
+
+.detail {
+    background: black;
+    border: solid 2px black;
+    color: white;
+    border-radius: 20px;
+    margin: 10px 0px;
+
+}
+
+.detail p {
+    text-align: center;
+    margin: 0;
+}
+
+.area9 {
+    background: #f2f2f2;
+    padding: 50px 0px;
+}
+
+.navbar-brand1 {
+    padding-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.area9 h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.area9 li {
     list-style: none;
 }
-.area9 h3{
-    font-size:21px;
-    margin-top:20px;
+
+.area9 h3 {
+    font-size: 21px;
+    margin-top: 20px;
 }
