@@ -1,0 +1,54 @@
+body{
+    background:#f5f5f5;
+    margin:0;
+    padding:0;
+}
+.area1{
+    background:#f5f5f5;
+    padding:0px 0px;
+    width:100%;
+}
+.square{
+    margin:150px 300px;
+    padding:50px 20px;
+    background:#ffffff;
+    text-align:center;
+    border-radius:25px;
+}
+.rec1{
+    background:white;
+    text-align:left;
+}
+.rec1 h2{
+    font-weight:normal;
+}
+.rec2{
+    background:white;
+    border:solid black 2px;
+    padding:15px 0px;
+    text-align:left;
+    padding-left:5px;
+    border-radius:5px;
+}
+.rec3{
+    margin-top:15px;
+    padding:15px 0px;
+    text-align:center;
+    background:black;
+    color:white;
+    font-weight:bold;
+    border-radius:10px;
+
+
+}
+.rec4{
+    background:white;
+    text-align:left;
+    margin-top:15px;
+
+}
+.rec5{
+    background:white;
+    text-align:left;
+    margin-top:15px;
+}
