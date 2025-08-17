@@ -150,6 +150,9 @@ body {
 .squa img {
     width: 100%;
 }
+.squa:hover{
+    background:#e5e5e5;
+}
 
 .s1about {
     background: white;
@@ -182,6 +185,9 @@ body {
     width: 100%;
     border: solid #e5e5e5 1px;
 
+}
+.square:hover{
+    background:#e5e5e5;
 }
 
 .square img {

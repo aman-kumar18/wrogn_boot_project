@@ -1,0 +1,95 @@
+body{
+    background:blue;
+
+}
+.head{
+    background:black;
+    padding:5px 0px;
+    color:white;
+}
+.area2{
+    background:#f8f9fa;
+    width:100%;
+}
+.hathead{
+    background:white;
+    width:100%;
+    
+}
+.hathead p{
+    font-size:8px;
+    tex-align:center;
+    font-weight:bold;
+}
+.product{
+    padding:50px 0px;
+    background:white;
+}
+.square{
+    background:white;
+    margin:0px;
+    padding:5px;
+    width:100%;
+    border:solid #e5e5e5 1px;
+
+}
+.square img{
+    width:100%;
+}
+.sabout{
+    background:white;
+    margin-bottom:30px;
+}
+.sabout p{
+    font-size:14px;
+    padding-top:10px;
+    text-align:center;
+}
+.sabout h4{
+    font-size:16px;
+    line-height:0px;
+    text-align:center;
+}
+.area8 {
+    padding: 30px 0px;
+    background: rgb(183, 175, 175);
+}
+
+.detail {
+    background: black;
+    border: solid 2px black;
+    color: white;
+    border-radius: 20px;
+    margin: 10px 0px;
+
+}
+
+.detail p {
+    text-align: center;
+    margin: 0;
+}
+
+.area9 {
+    background: #f2f2f2;
+    padding: 50px 0px;
+}
+
+.navbar-brand1 {
+    padding-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.area9 h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.area9 li {
+    list-style: none;
+}
+
+.area9 h3 {
+    font-size: 21px;
+    margin-top: 20px;
+}
