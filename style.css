@@ -16,8 +16,8 @@ body {
 }
 
 .table1 {
-    width: 350px;
-    margin: 40px 45px;
+    width: 340px;
+    margin: 42px 45px;
     line-height: 40px;
 }
 
@@ -25,7 +25,80 @@ body {
     font-weight: bold;
     font-size: 14px;
 }
+.table1 td:hover{
+    color:#ef3971;
+}
 
+.table2 {
+    width: 250px;
+    margin: 10px 45px;
+    line-height: 40px;
+
+}
+
+.table2 td {
+    font-weight: bold;
+    font-size: 14px;
+}
+.table2 td:hover{
+    color:#ef3971;
+}
+.table3 {
+    width: 280px;
+    margin: 10px 45px;
+    line-height: 40px;
+
+}
+
+.table3 td {
+    font-weight: bold;
+    font-size: 14px;
+}
+.table3 td:hover{
+    color:#ef3971;
+}
+.table4 {
+    width: 180px;
+    margin: 10px 25px;
+    line-height: 40px;
+
+}
+
+.table4 td {
+    font-weight: bold;
+    font-size: 14px;
+}
+.table4 td:hover{
+    color:#ef3971;
+}
+.table5 {
+    width: 180px;
+    margin: 10px 45px;
+    line-height: 40px;
+
+}
+
+.table5 td {
+    font-weight: bold;
+    font-size: 14px;
+}
+.table5 td:hover{
+    color:#ef3971;
+}
+.table6 {
+    width: 217px;
+    margin: 10px 45px;
+    line-height: 40px;
+
+}
+
+.table6 td {
+    font-weight: bold;
+    font-size: 14px;
+}
+.table6 td:hover{
+    color:#ef3971;
+}
 .navbar-brand {
     margin: 0;
     padding-bottom: 12px;
@@ -81,6 +154,9 @@ body {
     border-radius: 5px;
     margin: 10px 0px;
 }
+.textarea1 a{
+    text-decoration:none;
+}
 
 .textarea1 p {
     text-align: center;
@@ -88,12 +164,22 @@ body {
     color: white;
 }
 
+.textarea1:hover{
+    background:#f8f9fa;
+    
+}
+.textarea1:hover p{
+    color:black;
+}
 .textarea2 {
     background: black;
     width: 100%;
     border: solid black 1px;
     border-radius: 5px;
     margin: 10px 0px;
+}
+.textarea2 a{
+    text-decoration:none;
 }
 
 .textarea2 p {
@@ -102,6 +188,13 @@ body {
     color: white;
 }
 
+.textarea2:hover{
+    background:#f8f9fa;
+    
+}
+.textarea2:hover p{
+    color:black;
+}
 .textarea3 {
     background: black;
     width: 100%;
@@ -110,12 +203,22 @@ body {
     margin: 10px 0px;
 }
 
+.textarea3 a{
+    text-decoration:none;
+}
 .textarea3 p {
     text-align: center;
     padding-top: 12px;
     color: white;
 }
 
+.textarea3:hover{
+    background:#f8f9fa;
+    
+}
+.textarea3:hover p{
+    color:black;
+}
 .textarea4 {
     background: black;
     width: 100%;
@@ -124,10 +227,20 @@ body {
     margin: 10px 0px;
 }
 
+.textarea4 a{
+    text-decoration:none;
+}
 .textarea4 p {
     text-align: center;
     padding-top: 12px;
     color: white;
+}
+.textarea4:hover{
+    background:#f8f9fa;
+    
+}
+.textarea4:hover p{
+    color:black;
 }
 
 .area5 {
@@ -243,6 +356,9 @@ body {
     color:white;
 
 }
+.details a{
+    text-decoration:none;
+}
 
 .area7 {
     padding: 10px 0px;
@@ -302,7 +418,7 @@ body {
 
 .area9 {
     background: #f2f2f2;
-    padding: 50px 0px;
+    padding: 10px 0px;
 }
 
 .navbar-brand1 {
