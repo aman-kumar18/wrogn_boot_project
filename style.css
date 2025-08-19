@@ -152,7 +152,7 @@ body {
     width: 100%;
     border: solid black 1px;
     border-radius: 5px;
-    margin: 10px 0px;
+    margin: 0px 0px;
 }
 .textarea1 a{
     text-decoration:none;
@@ -160,7 +160,7 @@ body {
 
 .textarea1 p {
     text-align: center;
-    padding-top: 12px;
+    padding-top: 17px;
     color: white;
 }
 
@@ -176,7 +176,7 @@ body {
     width: 100%;
     border: solid black 1px;
     border-radius: 5px;
-    margin: 10px 0px;
+    margin: 0px 0px;
 }
 .textarea2 a{
     text-decoration:none;
@@ -184,7 +184,7 @@ body {
 
 .textarea2 p {
     text-align: center;
-    padding-top: 12px;
+    padding-top: 17px;
     color: white;
 }
 
@@ -200,7 +200,7 @@ body {
     width: 100%;
     border: solid black 1px;
     border-radius: 5px;
-    margin: 10px 0px;
+    margin: 0px 0px;
 }
 
 .textarea3 a{
@@ -208,7 +208,7 @@ body {
 }
 .textarea3 p {
     text-align: center;
-    padding-top: 12px;
+    padding-top: 17px;
     color: white;
 }
 
@@ -224,7 +224,7 @@ body {
     width: 100%;
     border: solid black 1px;
     border-radius: 5px;
-    margin: 10px 0px;
+    margin: 0px 0px;
 }
 
 .textarea4 a{
@@ -232,7 +232,7 @@ body {
 }
 .textarea4 p {
     text-align: center;
-    padding-top: 12px;
+    padding-top: 17px;
     color: white;
 }
 .textarea4:hover{
@@ -349,8 +349,10 @@ body {
     font-weight: bold;
     text-align: center;
     width: 100%;
-    padding:50px 0px;
+    padding:30px 0px;
     background-image: linear-gradient(to top, black, transparent);
+    font-family: serif;
+    font-weight:bold;
 }
 .details h2{
     color:white;
