@@ -18,7 +18,7 @@ body{
 }
 .hathead p{
     font-size:8px;
-    tex-align:center;
+    text-align:center;
     font-weight:bold;
 }
 .product{
